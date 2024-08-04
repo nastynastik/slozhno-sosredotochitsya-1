@@ -1,1 +1,1 @@
-project3 https://github.com/yandex-praktikum/slozhno-sosredotochitsya.git
+project3 https://github.com/nastynastik/slozhno-sosredotochitsya-1.git
